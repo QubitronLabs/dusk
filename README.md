@@ -2,12 +2,6 @@
 
 **A Diffusion Language Model by Qubitron Labs**
 
-<p align="center">
-  <img src="assets/showcase0.8.gif" alt="Dusk decoding demo" width="550" />
-  <br>
-  <em>Dusk's decoding process — text crystallizes from noise through iterative denoising.</em>
-</p>
-
 ## Overview
 
 Dusk is a diffusion-based language model that generates text through iterative denoising rather than autoregressive token-by-token generation. All tokens crystallize simultaneously from noise — like meaning emerging from chaos.
